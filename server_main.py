@@ -8,6 +8,7 @@ from hashalgo import digest
 from aes_decryption import aes_decrypt
 
 def server(conn):
+  '''Server Main Function'''
 
   #Request from client for public key
 
