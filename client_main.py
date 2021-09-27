@@ -8,7 +8,8 @@ from rsa_algo import rsa
 from hashalgo import digest
 
 def client(s):
-
+  '''Main Function for Client'''
+  
   #Entering the message and secret key
    
   message=int(input('Enter message :'),2)
