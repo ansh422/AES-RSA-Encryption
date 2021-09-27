@@ -7,7 +7,6 @@ This contains six python files representing various methods required. The main f
 * __aes_decryption.py__ : Has the functions to implement Simplified AES decryption
 * __hashalgo.py__ : Has the function to implement the hash algorithm
 * __rsa_algo.py__ : Has the function to implement the RSA algorithm
-> The Simplied AES is taken from [here](https://jhafranco.com/2012/02/11/simplified-aes-implementation-in-python/)
 
 ## Flow 
 ![Flow Diagram](https://github.com/ansh422/AES-RSA-Encryption/blob/main/img/FlowDiagram.jpg)
